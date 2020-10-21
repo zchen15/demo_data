@@ -1,1 +1,1 @@
-# demo_data
+This repository contains demo data.
